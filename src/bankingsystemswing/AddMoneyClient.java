@@ -112,7 +112,7 @@ public class AddMoneyClient {
 	    e1.printStackTrace();
 	}
 
-	JLabel lblNewLabel_2 = new JLabel("\u20AC");
+	JLabel lblNewLabel_2 = new JLabel("\u20B9");
 	lblNewLabel_2.setBounds(107, 128, 13, 14);
 	frame.getContentPane().add(lblNewLabel_2);
 
@@ -158,7 +158,7 @@ public class AddMoneyClient {
 	btnNewButton.setBounds(171, 156, 89, 23);
 	frame.getContentPane().add(btnNewButton);
 
-	JLabel lblYourTotalBalance = new JLabel("Your Total Balance is : \u20AC");
+	JLabel lblYourTotalBalance = new JLabel("Your Total Balance is : \u20B9");
 	lblYourTotalBalance.setFont(new Font("Tahoma", Font.PLAIN, 14));
 	lblYourTotalBalance.setBounds(49, 207, 188, 23);
 	frame.getContentPane().add(lblYourTotalBalance);

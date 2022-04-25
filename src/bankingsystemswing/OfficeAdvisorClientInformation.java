@@ -215,7 +215,7 @@ public class OfficeAdvisorClientInformation {
 	lblNewLabel_6.setBounds(378, 309, 74, 14);
 	frame.getContentPane().add(lblNewLabel_6);
 	
-	JLabel lblNewLabel_7 = new JLabel("\u20AC");
+	JLabel lblNewLabel_7 = new JLabel("\u20B9");
 	lblNewLabel_7.setBounds(457, 309, 46, 14);
 	frame.getContentPane().add(lblNewLabel_7);
 	

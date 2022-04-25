@@ -362,7 +362,7 @@ public class TransferMoney {
 	frame.getContentPane().add(textField_9);
 	textField_9.setColumns(10);
 
-	JLabel lblNewLabel_3 = new JLabel("\u20AC");
+	JLabel lblNewLabel_3 = new JLabel("\u20B9");
 	lblNewLabel_3.setBounds(289, 241, 28, 14);
 	frame.getContentPane().add(lblNewLabel_3);
 
