@@ -9,4 +9,5 @@
 <img src="https://user-images.githubusercontent.com/104012041/165062251-81c49e46-d7a2-4b7c-913a-d9aa8facbe20.png height"600">
 <h1>Download Transaction Details</h1>
 <img src="https://user-images.githubusercontent.com/104012041/165062819-6b96c4f3-9990-42e0-8fc8-bb79bf98248c.png" height"600">
-                                                                                
+<h1>Client Information</h1>
+<img src="https://user-images.githubusercontent.com/104012041/165063822-c6d40b42-fb8e-4e97-83df-c32badd96830.png" height="600">
